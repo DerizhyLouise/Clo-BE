@@ -1,4 +1,4 @@
-Back-End Source Code of Kampus Merdeka Batch 6 - RevoU's Software Engineering Capstone Project
+Back-End Source Code of Kampus Merdeka Batch 5 - RevoU's Software Engineering Capstone Project
 
 This repository is part of Back-End Source Code.
 We called this application as Clo, an e-commerce website.
